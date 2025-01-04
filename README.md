@@ -50,3 +50,8 @@ Contributions are welcome! Feel free to open an issue or create a pull request w
 ## License
 
 This project is open-source and available under the MIT License.
+
+
+## Contact
+- **GitHub:** [cj-c0de](https://github.com/cj-c0de)
+- **Email:** dastgerdi.dev@gmail.com
